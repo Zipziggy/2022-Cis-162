@@ -1,0 +1,21 @@
+body {background-color: lavender;
+        font-family: comic, fantasy, sans-serif;}
+
+header {background-color:aqua;}
+
+h1{color:blue; background-color: azure;text-align: center;
+    font-size: 4em;}
+h2{color:blue; text-align: center;}
+h3{color:blue; text-align: center;}
+
+nav >ul {line-height: 3em;
+    list-style-type: none;
+    padding-left:5xp;}
+
+section {background-color: lemonchiffon;
+        width:75%;
+        font-size: 1.2em;}
+
+footer {background-color: mintcream; text-align:left;
+        width:14%;
+        font-size: 1.0em;}
